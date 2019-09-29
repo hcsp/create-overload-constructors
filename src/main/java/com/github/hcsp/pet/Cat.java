@@ -5,6 +5,8 @@ public class Cat {
 
     // Create two constructor here: Cat() and Cat(String name)
     // 在这里创建两个构造器：Cat()和Cat(String name)
+    Cat(){}
+    Cat(String name){this.name=name;}
 
     @Override
     public String toString() {
