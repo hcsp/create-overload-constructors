@@ -8,11 +8,11 @@ public class Cat {
     
     // 在这里创建两个构造器：Cat()和Cat(String name)
     
-    public  Cat() {
+    public Cat() {
 
     }
     
-    public Cat( String name ) {
+    public Cat(String name) {
         this.name = name;
     }
     
