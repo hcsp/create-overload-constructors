@@ -13,4 +13,3 @@ public class Home {
         System.out.println(white);
     }
 }
-
